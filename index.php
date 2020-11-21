@@ -41,7 +41,7 @@
 			</a>
 			
 			<a href="Gianttaroplant.php">
-				<img src="pGianttaro-plant.jpg" alt="bawal e barter plant" width="250" height="150">
+				<img src="Gianttaro-plant.jpg" alt="bawal e barter plant" width="250" height="150">
 			</a>
 		</div>
 		
