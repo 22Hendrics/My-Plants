@@ -11,6 +11,7 @@
     
 	<div id="header">
 	 <h1>My Plants </h1>
+		<h2> Members: Damasco, Demegillo, Mendoza, Mori, Londres</h2>
 	</div>
 	  
 	  
