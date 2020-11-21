@@ -19,7 +19,7 @@
 		<div class="inner-grid">
 			
 			<a href="Gabi2.php" >
-				<img src="plants/gabi2.jpg" alt="gabi2 sa dalan" width="250" height="150" id="">
+				<img src="gabi2.jpg" alt="gabi2 sa dalan" width="250" height="150" id="">
 			</a>
 	  
 			<a  href="Dumbcane.php">
